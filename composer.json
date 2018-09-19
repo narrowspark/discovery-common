@@ -13,7 +13,7 @@
         "composer",
         "common"
     ],
-    "homepage": "http://github.com/narrowspark/automatic-common",
+    "homepage": "http://github.com/narrowspark/automatic",
     "license": "MIT",
     "authors": [
         {
@@ -39,7 +39,7 @@
         }
     },
     "support": {
-        "issues": "https://github.com/narrowspark/automatic-common/issues",
-        "source": "https://github.com/narrowspark/automatic-common"
+        "issues": "https://github.com/narrowspark/automatic/issues",
+        "source": "https://github.com/narrowspark/automatic"
     }
 }
